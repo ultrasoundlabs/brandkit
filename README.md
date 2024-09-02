@@ -12,9 +12,9 @@ This is our brand kit, containing details on how we use our brand assets.
 
 
 
-## Fonts
+## Font (Onest)
 
-Located in [/fonts](https://github.com/ultrasoundlabs/brandkit/tree/main/font).
+Located in [/font](/font/).
 
 
 ##  Colors
